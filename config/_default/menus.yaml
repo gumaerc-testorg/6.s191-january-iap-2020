@@ -3,7 +3,7 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: external-dbbd1f34017742d18f310a3470e14e44
+- identifier: external-cbf39a95e7a348a59eaddebc19429247
   name: Online Publication
   url: http://introtodeeplearning.com/2020/index.html
   weight: 1000
