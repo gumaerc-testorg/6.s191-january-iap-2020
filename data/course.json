@@ -44,7 +44,10 @@
     "content": "ebe924c9-ca89-a169-144e-2bbf4de6a4fd",
     "website": "6-s191-introduction-to-deep-learning-january-iap-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "b8a1f670-7397-470f-ae39-579e713c1256",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "16ef0901-42a7-4332-ba41-985ee2af5291",
+  "short_id": "6.s191-january-iap-2020",
   "title": "Course Metadata"
 }
