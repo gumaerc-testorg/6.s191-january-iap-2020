@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-4855164b77f24629a03034cb5e51f536
+- identifier: d89f9933-83a3-461e-ba35-4061dee3a021
   name: Online Publication
-  url: http://introtodeeplearning.com/2020/index.html
+  pageRef: /external-resources/online-publication_d89f9933-83a3-461e-ba35-4061dee3a021
   weight: 10
